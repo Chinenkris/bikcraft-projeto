@@ -17,11 +17,11 @@
 }
 
 .tecnologia-conteudo {
-    padding-top: 160px;
-    padding-bottom: 160px;
+    padding-top: 180px;
+    padding-bottom: 180px;
 }
 
-.tecnologia-conteudo span {
+.tecnologia-conteudo > span {
     display: block;
     margin-bottom: 20px;
 }
